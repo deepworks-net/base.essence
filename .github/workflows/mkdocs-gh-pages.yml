@@ -5,4 +5,4 @@ on:
       - main
 jobs:
   update_release_draft:
-    uses: deepworks-net/github.actions/.github/workflows/publish.yml@main
+    uses: deepworks-net/github.actions/.github/workflows/mkdocs-gh-pages.yml@feature/workflow_updates
